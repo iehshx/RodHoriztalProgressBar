@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RodHoriztalProgressBar">
+    <attr name="progressbar_reach_color" format="reference|color" />
+    <attr name="progressbar_unreach_color" format="reference|color" />
+    <attr name="progressbar_reach_height" format="dimension" />
+    <attr name="progressbar_unreach_height" format="dimension" />
+    <attr name="progressbar_text_color" format="reference|color" />
+    <attr name="progressbar_text_size" format="dimension" />
+    <attr name="progressbar_text_offset" format="dimension" />
+    <attr name="progressbar_text_offset_line" format="dimension" />
+    <attr name="progressbar_rod_bg" format="reference|color" />
+    <attr name="progressbar_text_bg" format="reference|color" />
+    </declare-styleable>
+</resources>
