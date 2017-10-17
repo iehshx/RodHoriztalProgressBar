@@ -30,3 +30,6 @@
         app:progressbar_unreach_height="3dp"
         tools:layout_editor_absoluteX="8dp" />
         
+ 欢迎跳转： http://blog.csdn.net/iehshx
+
+http://www.jianshu.com/u/71f637ca5593
